@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chatting</string>
+    <string name="desk">Message</string>
+    <string name="name">Name</string>
+    <string name="add">Add</string>
+    <string name="konten">Konten Chat</string>
+    <string name="user">Nama Pengguna</string>
+    <string name="send">Kirim pesan</string>
+</resources>
